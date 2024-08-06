@@ -1,5 +1,8 @@
 # NeuroBCI
-It is the code of the systematic algorithm on server. We continue to update our codes and softwares to enable more reproducity. More details are coming soon!
+It is the code of the systematic algorithm on the server.
+![interaction3](https://github.com/user-attachments/assets/88bb8cb4-b3d4-4703-87a0-6161d85461b5)
+
+We continue to update our codes and software to enable more reproducity. More details are coming soon!
 
 ## path setting
 It should correct the absolute path of the directory before running the system
